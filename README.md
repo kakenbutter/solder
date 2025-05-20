@@ -2,10 +2,11 @@
 A poorly made PCB that is only slightly smarter than a goldfish. Ever wished to know the answer to life, the universe, and everything? Well this certainly can't tell you, but it can tell you what 3 + 3 is! Cool!
 
 ## Schematic
-
+![alt text](images/Schematic.png)
 
 ## PCB
-
+![alt text](images/PCB.png)
+![alt text](images/3d.png)
 
 ## Features
 - Won't explode/spontaneously combust*!
@@ -17,15 +18,12 @@ A poorly made PCB that is only slightly smarter than a goldfish. Ever wished to 
 
 ## BOM
 - 1 	Battery holder
-- 1 	10uF Capacitor
-- 11	PNP Transistor
-- 11	NPN Transistor
-- 1 	100k Resistor
-- 1 	10k Resistor
-- 10	4.7k Resistor
-- 3 	220 Resistor
-- 2 	Potentiometer
-- 1 	Push Button
+- 6 	PNP Transistor
+- 15	NPN Transistor
+- 18    220k Resistor
+- 1 	Potentiometer
+- 4 	Push Button
+- 4     LED
 
 ---
 
