@@ -20,13 +20,13 @@ A poorly made PCB that is only slightly smarter than a goldfish. Ever wished to 
 - 1 	Battery holder
 - 6 	PNP Transistor
 - 15	NPN Transistor
-- 18    220k Resistor
+- 18  220k Resistor
 - 1 	Potentiometer
 - 4 	Push Button
-- 4     LED
+- 4   LED
 
 ---
 
 I do not assume any responsibility for any damage caused by using this PCB. 
 
-Made as a part of https://solder.hackclub.com!
+Made by `@Ethan Zhou` as a part of https://solder.hackclub.com!
